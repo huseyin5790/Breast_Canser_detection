@@ -1,0 +1,8 @@
+path: "C:\Users\hüseyin cibcir\OneDrive\Masaüstü\yolov8_breast\breast_tumor_dataset"
+
+train: images/train # relative to path
+val: images/val # relative to path
+test: images/test # relative to path
+
+# Class Names
+names: ["Tumor"]
